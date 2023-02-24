@@ -16,9 +16,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100%;
+  width: 80%;
   margin: auto;
-  padding: 20px 0;
 }
 
 .logo {
@@ -43,22 +42,22 @@ ul li a {
   margin: auto;
 }
 
-.content .text {
+.content .test {
   width: 40%;
   color: white;
 }
 
-.content .text h2 {
+.content .test h2 {
   font-size: 40px;
   text-transform: uppercase;
 }
 
-content .text p {
+.content .test p {
   font-size: 18px;
   margin: 20px 0;
 }
 
-.content .text a {
+.content .test a {
   text-decoration: none;
   background: white;
   color: black;
